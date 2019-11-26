@@ -2,6 +2,7 @@ package com.howtodoinjava.demo.model;
 
 public class Input {
 	public Input() {
+		
 	}
 	public Input(Integer num1, Integer num2) {
 		super();
